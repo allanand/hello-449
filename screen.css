@@ -4,13 +4,13 @@ img {
 
 
 art1 {
-    float: left;
+display: flex;
 }
 
 art2 {
-    float: right;
+    display: flex;
 }
 
 art3 {
-    float:right
+    display: flex;
 }
