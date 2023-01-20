@@ -29,5 +29,6 @@ body {
 
 .art3 {
     background-color: lightgray;
+    flex-direction: column;
 
 }
