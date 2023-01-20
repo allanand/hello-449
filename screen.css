@@ -17,4 +17,6 @@ body {
 
 .art3 {
     flex-wrap: wrap;
+    background-color: lightgray;
+
 }
