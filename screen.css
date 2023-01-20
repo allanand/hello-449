@@ -24,6 +24,7 @@ body {
 
 .art2 {
     background-color: lightgray;
+    flex-wrap: wrap;
 }
 
 .art3 {
