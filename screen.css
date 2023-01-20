@@ -1,6 +1,13 @@
+
 body {
-    background-color: white;
+    font-family: Helvetica, sans-serif;
+    color: #fffff;
+    margin: 10px;
+    font-size: 40px;
+    line-height: 1.4em;
 }
+
+
 
 #main .art1 .pic {
     width: 500px;
@@ -9,7 +16,6 @@ body {
 #main{
     display: inline-flex;
     flex-direction: row;
-    margin: 6;
 }
 
 .art2 {
