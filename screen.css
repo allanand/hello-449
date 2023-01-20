@@ -9,6 +9,7 @@ body {
 #main{
     display: inline-flex;
     flex-direction: row;
+    margin: 6;
 }
 
 .art2 {
