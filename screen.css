@@ -21,8 +21,8 @@ body {
 #main{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    margin: 0 -5;
+    gap: 20px;
+
 }
 
 .art2 {
