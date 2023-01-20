@@ -6,3 +6,11 @@
     display: flex;
     flex-direction: row;
 }
+
+#main .art2 {
+    flex-wrap: wrap;
+}
+
+#main .art3 {
+    flex-wrap: wrap;
+}
