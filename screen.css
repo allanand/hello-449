@@ -1,16 +1,16 @@
-img {
-    width: 500px;
+#main .art1 .pic {
+    width: 200px;
 }
 
 
-art1 {
+.art1 {
 display: flex;
 }
 
-art2 {
+.art2 {
     display: flex;
 }
 
-art3 {
+.art3 {
     display: flex;
 }
