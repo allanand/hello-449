@@ -3,14 +3,6 @@
 }
 
 
-#main .art1 {
-display: flex;
-}
-
-#main .art2 {
-    display: flex;
-}
-
-#main .art3 {
-    display: flex;
+#main {
+    flex: auto;
 }
