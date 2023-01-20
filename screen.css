@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: white;
 }
 
 #main .art1 .pic {
@@ -11,8 +11,8 @@ body {
     flex-direction: row;
 }
 
-#main .art2 {
-    flex-wrap: wrap;
+.art2 {
+    background-color: lightgray;
 }
 
 #main .art3 {
