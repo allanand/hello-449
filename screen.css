@@ -26,18 +26,23 @@ body {
 .art1 {
     align-items: flex-start;
     border-radius: 15px;
+    text-align: center;
 }
 
 .art2 {
     background-color: #ebf0f3;
     flex-wrap: wrap;
     border-radius: 15px;
+    text-align: center;
+    flex-grow: 1;
+
 }
 
 .art3 {
     background-color: #ebf0f3;
     flex-wrap: wrap;
     border-radius: 15px;
+    text-align: center;
 }
 
 h1 {
