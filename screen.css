@@ -2,15 +2,7 @@
     width: 500px;
 }
 
-#main .art1 {
-    flex: auto;
+#main .art1 .art2 .art3{
+    display: flex;
+    flex-direction: column;
 }
-
-#main .art2 {
-    flex: auto;
-}
-
-#main .art3 {
-    flex: auto;
-}
-
