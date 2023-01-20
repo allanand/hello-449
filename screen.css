@@ -24,18 +24,20 @@ body {
 }
 
 .art1 {
-align-items: flex-start;
-
+    align-items: flex-start;
+    border-radius: 15px;
 }
 
 .art2 {
     background-color: #ebf0f3;
     flex-wrap: wrap;
+    border-radius: 15px;
 }
 
 .art3 {
     background-color: #ebf0f3;
     flex-wrap: wrap;
+    border-radius: 15px;
 }
 
 h1 {
