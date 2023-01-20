@@ -5,4 +5,5 @@
 
 #main {
     flex: auto;
+    flex-direction: column;
 }
