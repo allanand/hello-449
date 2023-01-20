@@ -4,5 +4,5 @@
 
 #main .art1 .art2 .art3{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
