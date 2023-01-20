@@ -15,7 +15,7 @@ body {
     border-radius: 15px;
     object-fit: fill;
     border-radius: 15px;
-    text-align: center;
+    align-content: center;
 }
 
 #main{
