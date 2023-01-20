@@ -20,7 +20,10 @@ body {
     margin: 0 -5;
 }
 
+.art1 {
+align-items: flex-start;
 
+}
 
 .art2 {
     background-color: #ebf0f3;
@@ -31,3 +34,6 @@ body {
     background-color: #ebf0f3;
     flex-wrap: wrap;
 }
+
+h1 {
+align-items: flex-start;}
