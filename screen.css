@@ -3,14 +3,14 @@
 }
 
 
-.art1 {
+#main .art1 {
 display: flex;
 }
 
-.art2 {
+#main .art2 {
     display: flex;
 }
 
-.art3 {
+#main .art3 {
     display: flex;
 }
