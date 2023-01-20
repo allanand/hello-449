@@ -29,6 +29,5 @@ body {
 
 .art3 {
     background-color: #ebf0f3;
-    flex-direction: column;
-
+    flex-wrap: wrap;
 }
