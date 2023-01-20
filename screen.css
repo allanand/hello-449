@@ -2,7 +2,7 @@
     width: 500px;
 }
 
-#main .art1 .art2 .art3{
+#main{
     display: flex;
     flex-direction: row;
 }
