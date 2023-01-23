@@ -10,8 +10,8 @@ body {
 
 
 .pic {
-    width: 1000px;
-    height: 400px;
+    width: 900px;
+    height: 500px;
     border-radius: 15px;
     object-fit: fill;
     border-radius: 15px;
@@ -52,6 +52,5 @@ text-align: justify;
 }
 
 test {
-    background-color: black;
-    color: white;
+    color: black;
 }
