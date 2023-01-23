@@ -11,7 +11,7 @@ body {
 
 .pic {
     border-radius: 15px;
-    object-fit: fill;
+    object-fit: cover;
     border-radius: 15px;
     align-content: center;
 }
