@@ -46,11 +46,14 @@ body {
     text-align: center;
 }
 
+.art5 {
+    background: black;
+}
+
 h1 {
 text-align: justify;
 }
 
 .test {
-    background: black;
     color: white;
 }
