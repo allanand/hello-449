@@ -4,7 +4,7 @@ body {
     margin: 100px;
     padding: 15px;
     font-size: 20px;
-    line-height: 1em;
+    line-height: 1.4em;
     object-position: center;
 }
 
@@ -40,7 +40,6 @@ body {
     flex-wrap: wrap;
     border-radius: 15px;
     text-align: left;
-    padding: 30px;
 }
 
 .art3 {
@@ -48,7 +47,6 @@ body {
     flex-wrap: wrap;
     border-radius: 15px;
     text-align: center;
-    padding: 30px;
 }
 
 .art5 {
