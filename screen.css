@@ -17,7 +17,7 @@ body {
     border-radius: 15px;
     align-content: center;
     margin: 20px;
-    object-fit: 50% 50%;
+    transform: scale(1.5);
 }
 
 
