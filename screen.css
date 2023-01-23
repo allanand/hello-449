@@ -2,7 +2,6 @@
 body {
     font-family: Helvetica, sans-serif;
     color: #fffff;
-    margin: 10px;
     font-size: 20px;
     line-height: 1.4em;
 }
@@ -25,6 +24,7 @@ body {
 }
 
 #main{
+    width: 700px;
     display: flex;
     flex-direction: row;
     gap: 20px;
